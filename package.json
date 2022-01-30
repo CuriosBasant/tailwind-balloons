@@ -1,13 +1,23 @@
 {
   "name": "@curios/tailwind-balloons",
+  "description": "A tailwind plugin to show text-balloons on hover over any dom element.",
   "version": "0.1.0",
   "main": "lib/index.js",
-  "license": "MIT",
   "peerDependencies": {
     "tailwindcss": ">=2.0.0 || >=3.0.0"
   },
   "devDependencies": {
     "postcss": "^8.4.5",
     "tailwindcss": "^3.0.18"
-  }
+  },
+  "keywords": [
+    "tailwind",
+    "tooltips",
+    "balloons"
+  ],
+  "repository": "github:CuriosBasant/tailwind-balloons",
+  "homepage": "https://github.com/CuriosBasant/tailwind-balloons#readme",
+  "bugs": "https://github.com/CuriosBasant/tailwind-balloons/issues",
+  "author": "CuriosBasant <basantbrpl@gmail.com>",
+  "license": "MIT"
 }
